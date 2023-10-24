@@ -1,6 +1,6 @@
-# to-do
+# to-do app
 
-This template should help get you started developing with Vue 3 in Vite.
+<a href="https://dariasiluyanova.github.io/todo/">Посмотреть приложение</a> 
 
 ## Recommended IDE Setup
 
